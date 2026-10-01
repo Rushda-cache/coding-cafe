@@ -1,0 +1,16 @@
+ 1077  which python3
+ 1078  clear
+ 1079  man ls
+ 1080  ls -h
+ 1081  ls - h
+ 1082  man man
+ 1083  man ls
+ 1084  clear
+ 1085  cd cod
+ 1086  cd cod
+ 1087  clear
+ 1088  cd cod    README.md README  README.md
+ 1089  history
+ 1090  python3
+ 1091  clear
+ 1092  clear
